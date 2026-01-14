@@ -1,6 +1,6 @@
 #Ignorar Pastas
 
-_MACOSX/
+__MACOSX/
 qr-code-component-figma/
 qr-code-component-main/
 
