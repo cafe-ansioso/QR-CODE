@@ -1,0 +1,10 @@
+#Ignorar Pastas
+
+_MACOSX/
+qr-code-component-figma/
+qr-code-component-main/
+
+#Ignorar Arquivos
+
+qr-code-component-figma.zip
+qr-code-component-main.zip
